@@ -22,3 +22,15 @@ A DIY project to create a bike signal system with turn signals and brake lights.
 
 - Arduino IDE
 - Basic soldering and wiring tools
+
+### Installation
+
+Follow the instructions in [docs/installation.md](docs/installation.md) to set up the project.
+
+## Usage
+
+Detailed usage instructions are available in [docs/usage.md](docs/usage.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
